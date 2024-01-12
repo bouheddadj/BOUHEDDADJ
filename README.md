@@ -1,16 +1,21 @@
-### Hi there 👋
+## À propos de moi
 
-<!--
-**bouheddadj/BOUHEDDADJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Salut, je suis Nasr BOUHEDDADJ, étudiant en troisième année en informatique à l'université de lyon 1. Passionné par le développement logiciel et les nouvelles technologies, je me consacre à enrichir mes compétences techniques.
 
-Here are some ideas to get you started:
+### Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Langages de programmation : C++, Python, HTML, CSS, JavaScript
+- 🛠️ Technologies : MySQL, PostgreSQL, phpMyAdmin
+
+### Projets Notables
+
+- 🚀 [Nom d'un projet avec lien si disponible]
+- 🌐 [Autre projet que vous souhaitez mettre en avant]
+
+### Objectif
+
+Mon objectif est de contribuer à des projets innovants, d'apprendre continuellement et de collaborer avec des passionnés de technologie.
+
+### Contact
+
+📧 [bnasr3369@gmail.com] | 🔗 [Votre Profil LinkedIn] | 🐦 [Votre Profil Twitter]

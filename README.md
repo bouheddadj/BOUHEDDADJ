@@ -21,4 +21,4 @@ Mon objectif est de contribuer à des projets innovants, d'apprendre continuelle
 
 ### Contact
 
-📧 [bnasr3369@gmail.com] | 🔗 [https://www.linkedin.com/in/nasr-bouheddadj-550b0a299/] | 🌐 [bouheddadj.com]
+📧 [bnasr3369@gmail.com] | 🔗 [https://www.linkedin.com/in/nasr-bouheddadj-550b0a299/] | 🌐 [https://www.bouheddadj.com]

@@ -4,8 +4,8 @@
 
 ### Compétences
 
-- 👨‍💻 Langages de programmation : C++, Python, HTML, CSS, JavaScript
-- 🛠️ Technologies : MySQL, PostgreSQL, phpMyAdmin
+- 👨‍💻 Langages de programmation : C\C++, Java, Python, HTML, CSS, JavaScript, PHP
+- 🛠️ Technologies : MySQL, PostgreSQL, phpMyAdmin, Express.js, Node.js, React.js, Bootstrap, MongoDB (NoSQL DB)
 
 ### Projets Notables
 

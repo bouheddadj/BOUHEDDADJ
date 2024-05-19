@@ -9,7 +9,7 @@
 
 ### Projets Notables
 
-- 🚀 [Car rent compare]([https://github.com/bouheddadj/Farm-Defender](https://github.com/bouheddadj/carrentcompare) - Trouvez la meilleure offre de location de voiture avec notre application web MERN.
+- 🚀 [Car rent compare](https://github.com/bouheddadj/carrentcompare) - Trouvez la meilleure offre de location de voiture avec notre application web MERN.
 - 🚀 [Farm Defender](https://github.com/bouheddadj/Farm-Defender) - "Farm Defender" : jeu de type tower defense réalisé en C++ sous Linux.
 - 🚀 [Pixel Craft](https://github.com/bouheddadj/PixelCraft) - Un programme réalisé en C++ qui génère un avatar en pixel art.
 - 🚀 [Stellar Moon](https://github.com/bouheddadj/StellarMoonScape) - "Base lunaire en 3D" : réalisation en C++ avec les bibliothèques SDL2.
